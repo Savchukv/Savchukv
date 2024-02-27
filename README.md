@@ -1,6 +1,6 @@
 ## Hey 👋, I'am Vasiliy Savchuk
 
-[![Linkedin Badge](https://img.shields.io/badge/-vaseks-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/vaseks/)](https://www.linkedin.com/in/https://www.linkedin.com/in/vaseks/) [![Github Badge](https://img.shields.io/badge/-Savchukv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Savchukv/)](https://www.github.com/Savchukv/) [![Twitter Badge](https://img.shields.io/badge/-Vinriedel-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Vinriedel/)](https://www.twitter.com/Vinriedel/) <p align='left'>I'm a TeamLead Mobile Development from Novosibirsk.
+[![Linkedin Badge](https://img.shields.io/badge/-vaseks-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/vaseks/)](https://www.linkedin.com/in/https://www.linkedin.com/in/vaseks/) [![Github Badge](https://img.shields.io/badge/-Savchukv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Savchukv/)](https://www.github.com/Savchukv/) [![Twitter Badge](https://img.shields.io/badge/-Vinriedel-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Vinriedel/)](https://www.twitter.com/Vinriedel/) <p align='left'>I'm Head of Mobile Development.
   
 Interested in UI/UX design, psychology and self-development.
 #
@@ -8,15 +8,17 @@ Interested in UI/UX design, psychology and self-development.
 
 - [Atlas Health](https://apps.apple.com/ru/app/atlas-health-russia/id1255504641?l=ru)
 - [2GIS](https://apps.apple.com/ru/app/2гис-точные-офлайн-карты/id481627348)
+- [Сказкинсон](https://apps.apple.com/ru/app/сказкинсон-сказки-для-детей/id1570601478)
+- [Мое Здоровье: Медкарта и Врачи](https://apps.apple.com/ru/app/мое-здоровье-медкарта-и-врачи/id1576327586)
+- [Noones: P2P BTC Marketplace](https://play.google.com/store/apps/details?id=team.noones.mobilemessenger&pli=1)
 - [Bank Orange](https://apps.apple.com/ru/app/оранжевый/id1118358916)
 - [MTC Bank](https://apps.apple.com/ru/app/мтс-банк-new/id1371351465)
-- [Injoin](https://apps.apple.com/ru/app/injoin-досуг-по-интересам/id1499210463?l=en)
 - [Chat Bank](https://apps.apple.com/ru/app/chatbank/id1139686197)
 - And other
 
 👨🏽‍💻You can view my [resume](https://career.habr.com/savchukvn)
 
-💁🏽‍♂️The author of the [Vaseks blog](https://vaseks.me)
+💁🏽‍♂️The author of the [Teamlead blog](https://t.me/goodteamlead)
 
 🎨 [Design blog](https://vk.com/vinriedel)
 
