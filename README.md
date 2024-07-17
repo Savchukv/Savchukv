@@ -1,11 +1,17 @@
 ## Hey 👋, I'am Vasiliy Savchuk
 
-[![Linkedin Badge](https://img.shields.io/badge/-vaseks-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaseks/)](https://www.linkedin.com/in/vaseks/) [![Github Badge](https://img.shields.io/badge/-Savchukv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Savchukv/)](https://www.github.com/Savchukv/) [![Twitter Badge](https://img.shields.io/badge/-Vinriedel-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Vinriedel/)](https://www.twitter.com/Vinriedel/) <p align='left'>I'm Head of Mobile Development.
+[![Linkedin Badge](https://img.shields.io/badge/-vaseks-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaseks/)](https://www.linkedin.com/in/vaseks/) [![Github Badge](https://img.shields.io/badge/-Savchukv-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Savchukv/)](https://www.github.com/Savchukv/) [![Twitter Badge](https://img.shields.io/badge/-Vinriedel-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/Vinriedel/)](https://www.twitter.com/Vinriedel/) <p align='left'>Head of Development | Mentor at GetMentor | Author at Good Teamlead.
   
 Interested in UI/UX design, psychology and self-development.
+I am a passionate and deeply analytical individual who enjoys solving problems.
+In my professional life, I prioritize creating an environment that fosters growth and success for both myself and my team.
+I am constantly learning new things and trying to apply them in practice.
+I write a Good TeamLead blog on Telegram (https://t.me/goodteamlead).
+
 #
 ### Projects I worked on:
 
+- [Uzum Market](https://apps.apple.com/ru/app/uzum-market/id1640483056)
 - [Atlas Health](https://apps.apple.com/ru/app/atlas-health-russia/id1255504641?l=ru)
 - [2GIS](https://apps.apple.com/ru/app/2гис-точные-офлайн-карты/id481627348)
 - [Сказкинсон](https://apps.apple.com/ru/app/сказкинсон-сказки-для-детей/id1570601478)
