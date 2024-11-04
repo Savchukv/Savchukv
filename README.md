@@ -26,6 +26,13 @@ I write a Good TeamLead blog on Telegram (https://t.me/goodteamlead).
 
 💁🏽‍♂️The author of the [Teamlead blog](https://t.me/goodteamlead)
 
+👨‍🏫 I am a mentor on [GetMentor](https://getmentor.dev/mentor/vasiliy-savchuk-1084)
+
+📹 Participant of the Swiftbook podcasts. My performances:
+    [Video №1](https://youtu.be/4yV2O473IUc)
+    [Video №2](https://youtu.be/jZxglQrB6S8)
+    [Video №3](https://youtu.be/GbHplgzlnXQ)
+
 🎨 [Design blog](https://vk.com/vinriedel)
 
 🎨 [Design portfolio](https://www.behance.net/gallery/36724733/IOSAndroid-UIUX-Design)
